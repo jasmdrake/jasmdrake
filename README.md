@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jasmdrake
 - 👀 I’m interested in AI coding
-- 🌱 I’m currently learning to code a trainable AI turn SUPERCOMPUTER
+- 🌱 I’m currently learning to code a trainable multimodal AI to turn SUPERCOMPUTER!
 - 💞️ I’m looking to collaborate on a trainable AI
 - 📫 How to reach me jasmdrake@gmail.com
 
